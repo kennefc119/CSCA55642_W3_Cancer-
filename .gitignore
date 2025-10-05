@@ -8,6 +8,7 @@ __pycache__/
 
 # Folders
 data/
+cnn_model/
 
 # Distribution / packaging
 .Python
